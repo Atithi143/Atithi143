@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![logo](https://github.com/Atithi143/Atithi143/blob/main/welcome%20to%20Profile.png)]
 <h1 align="center">Hi 👋, I'm Atithi Singh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
