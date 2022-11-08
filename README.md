@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **atithi.cse.rymec@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +24,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atithi143&show_icons=true&locale=en&layout=compact" alt="atithi143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atithi143&" alt="atithi143" /></p>
+
+
+
+
+
+# Link for generate Readme
+https://rahuldkjain.github.io/gh-profile-readme-generator/
